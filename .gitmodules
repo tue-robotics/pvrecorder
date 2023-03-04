@@ -1,3 +1,4 @@
 [submodule "project/src/miniaudio"]
-	path = project/src/miniaudio
-	url = ../../mackron/miniaudio.git
+    path = project/src/miniaudio
+    url = ../../tue-robotics/miniaudio.git
+    branch = master
